@@ -1,0 +1,2 @@
+# eventfreefire-path
+Event freefire
